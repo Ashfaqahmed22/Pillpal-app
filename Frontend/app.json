@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "PillPal",
+    "slug": "pill",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/heartbeat.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+     
+      "package": "com.isuri.pill"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8f03c103-52bf-4bb0-b51b-0176b31fed41"
+      }
+    }
+  }
+}
