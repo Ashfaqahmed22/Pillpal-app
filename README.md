@@ -57,5 +57,10 @@ Ashfaq
 BSc Software Engineering
 Passionate about mobile development, APIs, and product-focused engineering.
 
+<img width="690" height="871" alt="image" src="https://github.com/user-attachments/assets/5a180f33-83c9-402d-a7f4-b4b8d67b0d55" />
+
+
+
+
 📄 License
 This project is for academic and portfolio purposes.
